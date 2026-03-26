@@ -1,7 +1,7 @@
 {
   "name": "simple",
   "owner": {
-    "name": "Paweł Usterka"
+    "name": "Pawe\u0142 Usterka"
   },
   "plugins": [
     {
@@ -10,8 +10,8 @@
         "source": "github",
         "repo": "usterk/simple-tts"
       },
-      "description": "macOS TTS notifications for Claude Code — speaks contextual summaries when Claude finishes or needs attention",
-      "version": "1.0.4"
+      "description": "macOS TTS notifications for Claude Code \u2014 speaks contextual summaries when Claude finishes or needs attention",
+      "version": "1.0.9"
     }
   ]
 }
