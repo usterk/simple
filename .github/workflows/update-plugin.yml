@@ -26,6 +26,7 @@ jobs:
           for p in data['plugins']:
               if p['name'] == '$PLUGIN':
                   p['version'] = '$VERSION'
+                  p['source']['ref'] = 'v$VERSION'
                   break
           with open('.claude-plugin/marketplace.json', 'w') as f:
               json.dump(data, f, indent=2)
