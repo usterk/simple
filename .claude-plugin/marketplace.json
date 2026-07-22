@@ -9,10 +9,10 @@
       "source": {
         "source": "github",
         "repo": "guc-net/simple-tts",
-        "ref": "v2.18.1"
+        "ref": "v2.18.2"
       },
       "description": "macOS TTS notifications for Claude Code \u2014 speaks contextual summaries when Claude finishes or needs attention",
-      "version": "2.18.1"
+      "version": "2.18.2"
     }
   ]
 }
