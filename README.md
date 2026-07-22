@@ -6,13 +6,13 @@ A [Claude Code](https://claude.ai/code) plugin marketplace by [@usterk](https://
 
 | Plugin | Description |
 |--------|-------------|
-| [simple-tts](https://github.com/usterk/simple-tts) | macOS TTS notifications — speaks contextual summaries when Claude finishes or needs attention |
+| [simple-tts](https://github.com/guc-net/simple-tts) | macOS TTS notifications — speaks contextual summaries when Claude finishes or needs attention |
 
 ## Usage
 
 ```bash
 # Add this marketplace
-/plugin marketplace add usterk/simple
+/plugin marketplace add guc-net/simple
 
 # Install a plugin
 /plugin install simple-tts@simple
