@@ -6,7 +6,7 @@ on:
 
 jobs:
   update:
-    runs-on: [self-hosted, guc-net-ci]
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
